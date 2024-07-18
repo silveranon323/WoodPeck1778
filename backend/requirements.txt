@@ -1,0 +1,13 @@
+Flask
+Flask-Cors
+numpy
+Pillow
+tensorflow
+werkzeug
+requests
+beautifulsoup4
+whois
+python-dateutil
+urllib3
+google
+bs4
