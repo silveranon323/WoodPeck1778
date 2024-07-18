@@ -11,3 +11,4 @@ python-dateutil
 urllib3
 google
 bs4
+scikit-learn
